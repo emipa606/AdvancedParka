@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Advanced Parka (Continued)</name>
+  <packageId>Mlie.AdvancedParka</packageId>
+  <author>Kikohi, Trunken</author>
+  <url>https://github.com/emipa606/AdvancedParka</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.postimg.cc/1X4HT06h/Info.png[/img]
+Update of Kikohi, Trunkens mod https://steamcommunity.com/sharedfiles/filedetails/?id=1677752791
+
+- Fixed the backwards parka
+
+[img]https://i.postimg.cc/8csH3dWV/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.postimg.cc/T1h9SjbF/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/AdvancedParka][img]https://i.postimg.cc/fykKF7X4/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.postimg.cc/MHXD40RW/Safe-To-Add.png[/img][/td]
+        [td][img]https://i.postimg.cc/sx1c8PSf/Safe-To-Remove.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.postimg.cc/hvhrw8xB/Original-Description.png[/img]
+[img]https://i.postimg.cc/qvTXYnc0/26f59gx.png[/img]
+
+21.10.2022
+- Updated to 1.4
+12.02.2021
+- Description update
+- Rebalanced armor multplier of all parkas
+
+[img]https://i.postimg.cc/mgsNqM3B/yUxTqe1.png[/img]
+
+[img]https://i.postimg.cc/bwhHMb0h/fKPWFbV.png[/img]
+[img]https://i.postimg.cc/dVYmXdRQ/vWMTzM8.png[/img]
+[img]https://i.postimg.cc/dVYmXdRM/U4iqmPg.png[/img]
+[img]https://i.postimg.cc/qvTXYncd/GNSaNCu.png[/img]
+[img]https://i.postimg.cc/0ysd3mGR/kUM1uuT.png[/img]
+
+[img]https://i.postimg.cc/jSbQ9N6T/CoVVxbp.png[/img]
+
+No known issues.
+
+[img]https://i.postimg.cc/13QcT6Gk/oAE0ZqY.pngg[/img]
+
+Code work by me, Kikohi
+Graphics by BajtMe
+Japanese translation made by @SET_SET
+German translation made by @Trunken
+
+[url=https://creativecommons.org/licenses/by-nc-sa/4.0/](CC BY-NC-SA 4.0)[/url]
+
+[img]https://i.postimg.cc/zXWF0phX/uNiBfaN.png[/img]
+
+Compatible with:
+[list]
+    [*]Combat Extended
+[/list]
+
+[img]https://i.postimg.cc/kgmFZ8Nn/wnwUuU9.png[/img]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421]Jewelry[/url]
+
+[img]https://i.postimg.cc/h42xFJZy/Image-not-found.png[/img]
+
+[img]https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>

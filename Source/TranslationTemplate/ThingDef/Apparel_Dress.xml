@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Soldier Parka -->
+  <Apparel_1MilitaryParka.label>Soldier Parka</Apparel_1MilitaryParka.label>
+  <!-- EN: A thick parka to stay warm even in the coldest of temperatures. This particular model uses various tailoring technics to make it more damages resistant. -->
+  <Apparel_1MilitaryParka.description>A thick parka to stay warm even in the coldest of temperatures. This particular model uses various tailoring technics to make it more damages resistant.</Apparel_1MilitaryParka.description>
+  <!-- EN: Civil Parka -->
+  <Apparel_1ParkaCiv.label>Civil Parka</Apparel_1ParkaCiv.label>
+  <!-- EN: A fancy winter parka to stay warm even in the coldest of temperatures. -->
+  <Apparel_1ParkaCiv.description>A fancy winter parka to stay warm even in the coldest of temperatures.</Apparel_1ParkaCiv.description>
+  <!-- EN: Worker Parka -->
+  <Apparel_1ParkaWork.label>Worker Parka</Apparel_1ParkaWork.label>
+  <!-- EN: An industrial parka designed to stay warm during work, even in the coldest of temperatures. Its numerous pockets make it useful when working. -->
+  <Apparel_1ParkaWork.description>An industrial parka designed to stay warm during work, even in the coldest of temperatures. Its numerous pockets make it useful when working.</Apparel_1ParkaWork.description>
+  <!-- EN: Military Parka -->
+  <Apparel_2MilitaryParka.label>Military Parka</Apparel_2MilitaryParka.label>
+  <!-- EN: A thick military Parka with deep pockets, to stay warm even in the coldest of temperatures. This particular model uses various tailoring technics to make it more damages resistant. -->
+  <Apparel_2MilitaryParka.description>A thick military Parka with deep pockets, to stay warm even in the coldest of temperatures. This particular model uses various tailoring technics to make it more damages resistant.</Apparel_2MilitaryParka.description>
+  <!-- EN: Bomber Jacket -->
+  <Apparel_2ParkaCiv.label>Bomber Jacket</Apparel_2ParkaCiv.label>
+  <!-- EN: A thin parka to stay warm in moderate temperatures. Allow the wearer a certain freedom is his movement. -->
+  <Apparel_2ParkaCiv.description>A thin parka to stay warm in moderate temperatures. Allow the wearer a certain freedom is his movement.</Apparel_2ParkaCiv.description>
+</LanguageData>

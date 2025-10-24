@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 1262871658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b8bc4998d0f5aa4ca5427d17a4365ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b8bc4998d0f5aa4ca5427d17a4365ce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Male_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Female_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Fat_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Hulk_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Female_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Male_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Thin_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Male_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Thin_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Female_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Male_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Fat_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Thin_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Thin_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Thin_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Female_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Hulk_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Fat_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Thin_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Fat_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Male_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Fat_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Fat_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Hulk_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Fat_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Male_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Thin_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Male_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Male_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Hulk_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/Display/Parka_Sold1.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Hulk_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Female_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Male_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Female_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Thin_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Female_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Hulk_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Thin_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Hulk_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Female_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Female_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Thin_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Thin_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Male_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Male_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Hulk_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Fat_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Fat_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Female_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Hulk_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Fat_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Female_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Hulk_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Hulk_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Fat_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Fat_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Thin_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Male_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Male_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/Display/Parka_Civ1.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Thin_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Fat_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Fat_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Female_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Fat_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Thin_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Hulk_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Male_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Hulk_east.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/WorkerParka1/Parka_Female_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Hulk_north.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Female_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaCivil2/Parka_Thin_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold1/Parka_Male_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/ParkaSold2/Parka_Hulk_south.png
+- Assets/Data/Mlie.AdvancedParka/Textures/Things/Apparel/FirstCivilParka/Parka_Female_north.png
+Dependencies: []
