@@ -1,16 +1,16 @@
-# [Advanced Parka (Continued)]()
+# [Advanced Parka (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3592614105)
 
-![Image](https://i.postimg.cc/1X4HT06h/Info.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Kikohi, Trunkens mod https://steamcommunity.com/sharedfiles/filedetails/?id=1677752791
 
 - Fixed the backwards parka
 
-![Image](https://i.postimg.cc/8csH3dWV/Notice.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.postimg.cc/hvhrw8xB/Original-Description.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
-![Image](https://i.postimg.cc/qvTXYnc0/26f59gx.png)
+![Image](https://img.litet.net/26f59gx.png)
 
 21.10.2022
 - Updated to 1.4
@@ -18,23 +18,23 @@ Update of Kikohi, Trunkens mod https://steamcommunity.com/sharedfiles/filedetail
 - Description update
 - Rebalanced armor multplier of all parkas
 
-![Image](https://i.postimg.cc/mgsNqM3B/yUxTqe1.png)
+![Image](https://img.litet.net/yUxTqe1.png)
 
-![Image](https://i.postimg.cc/bwhHMb0h/fKPWFbV.png)
+![Image](https://img.litet.net/fKPWFbV.png)
 
-![Image](https://i.postimg.cc/dVYmXdRQ/vWMTzM8.png)
+![Image](https://img.litet.net/vWMTzM8.png)
 
-![Image](https://i.postimg.cc/dVYmXdRM/U4iqmPg.png)
+![Image](https://img.litet.net/U4iqmPg.png)
 
-![Image](https://i.postimg.cc/qvTXYncd/GNSaNCu.png)
+![Image](https://img.litet.net/GNSaNCu.png)
 
-![Image](https://i.postimg.cc/0ysd3mGR/kUM1uuT.png)
+![Image](https://img.litet.net/kUM1uuT.png)
 
-![Image](https://i.postimg.cc/jSbQ9N6T/CoVVxbp.png)
+![Image](https://img.litet.net/CoVVxbp.png)
 
 No known issues.
 
-![Image](https://i.postimg.cc/13QcT6Gk/oAE0ZqY.pngg)
+![Image](https://img.litet.net/oAE0ZqY.pngg)
 
 Code work by me, Kikohi
 Graphics by BajtMe
@@ -43,7 +43,7 @@ German translation made by @Trunken
 
 [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![Image](https://i.postimg.cc/zXWF0phX/uNiBfaN.png)
+![Image](https://img.litet.net/uNiBfaN.png)
 
 Compatible with:
 
@@ -52,13 +52,13 @@ Compatible with:
 
 
 
-![Image](https://i.postimg.cc/kgmFZ8Nn/wnwUuU9.png)
+![Image](https://img.litet.net/wnwUuU9.png)
 
 [Jewelry](https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421)
 
-![Image](https://i.postimg.cc/h42xFJZy/Image-not-found.png)
+![Image](https://img.litet.net/logos/ImageNotFound.png)
 
-![Image](https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
@@ -70,4 +70,6 @@ Compatible with:
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/AdvancedParka?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3592614105) | insulation

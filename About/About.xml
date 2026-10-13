@@ -11,27 +11,28 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.postimg.cc/1X4HT06h/Info.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Kikohi, Trunkens mod https://steamcommunity.com/sharedfiles/filedetails/?id=1677752791
 
 - Fixed the backwards parka
 
-[img]https://i.postimg.cc/8csH3dWV/Notice.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.postimg.cc/T1h9SjbF/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/AdvancedParka][img]https://i.postimg.cc/fykKF7X4/Github.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/AdvancedParka][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.postimg.cc/MHXD40RW/Safe-To-Add.png[/img][/td]
-        [td][img]https://i.postimg.cc/sx1c8PSf/Safe-To-Remove.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToRemove.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.postimg.cc/hvhrw8xB/Original-Description.png[/img]
-[img]https://i.postimg.cc/qvTXYnc0/26f59gx.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
+[img]https://img.litet.net/26f59gx.png[/img]
 
 21.10.2022
 - Updated to 1.4
@@ -39,19 +40,19 @@ Update of Kikohi, Trunkens mod https://steamcommunity.com/sharedfiles/filedetail
 - Description update
 - Rebalanced armor multplier of all parkas
 
-[img]https://i.postimg.cc/mgsNqM3B/yUxTqe1.png[/img]
+[img]https://img.litet.net/yUxTqe1.png[/img]
 
-[img]https://i.postimg.cc/bwhHMb0h/fKPWFbV.png[/img]
-[img]https://i.postimg.cc/dVYmXdRQ/vWMTzM8.png[/img]
-[img]https://i.postimg.cc/dVYmXdRM/U4iqmPg.png[/img]
-[img]https://i.postimg.cc/qvTXYncd/GNSaNCu.png[/img]
-[img]https://i.postimg.cc/0ysd3mGR/kUM1uuT.png[/img]
+[img]https://img.litet.net/fKPWFbV.png[/img]
+[img]https://img.litet.net/vWMTzM8.png[/img]
+[img]https://img.litet.net/U4iqmPg.png[/img]
+[img]https://img.litet.net/GNSaNCu.png[/img]
+[img]https://img.litet.net/kUM1uuT.png[/img]
 
-[img]https://i.postimg.cc/jSbQ9N6T/CoVVxbp.png[/img]
+[img]https://img.litet.net/CoVVxbp.png[/img]
 
 No known issues.
 
-[img]https://i.postimg.cc/13QcT6Gk/oAE0ZqY.pngg[/img]
+[img]https://img.litet.net/oAE0ZqY.pngg[/img]
 
 Code work by me, Kikohi
 Graphics by BajtMe
@@ -60,20 +61,20 @@ German translation made by @Trunken
 
 [url=https://creativecommons.org/licenses/by-nc-sa/4.0/](CC BY-NC-SA 4.0)[/url]
 
-[img]https://i.postimg.cc/zXWF0phX/uNiBfaN.png[/img]
+[img]https://img.litet.net/uNiBfaN.png[/img]
 
 Compatible with:
 [list]
     [*]Combat Extended
 [/list]
 
-[img]https://i.postimg.cc/kgmFZ8Nn/wnwUuU9.png[/img]
+[img]https://img.litet.net/wnwUuU9.png[/img]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421]Jewelry[/url]
 
-[img]https://i.postimg.cc/h42xFJZy/Image-not-found.png[/img]
+[img]https://img.litet.net/logos/ImageNotFound.png[/img]
 
-[img]https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -82,6 +83,8 @@ Compatible with:
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3592614105][img]https://img.shields.io/github/v/release/emipa606/AdvancedParka?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | insulation</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>
